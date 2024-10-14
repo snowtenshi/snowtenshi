@@ -7,8 +7,6 @@
 - Ex-biomédica ♰
 
 ### Atualmente estou estudando 🌱
-[![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,js,figma,mysql,git,github,nodejs&perline=3)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,typescript,react,nodejs,figma,mysql,kotlin&perline=3)](https://skillicons.dev)
 
 ### [Linkedin](https://www.linkedin.com/in/gabi-mariano/)
-
-![github-user-contribution](https://github.com/snowtenshi/snowtenshi/assets/138739438/08a0667b-e951-4916-a757-43dbc5ae0343)

@@ -7,6 +7,6 @@
 - Ex-biomédica ♰
 
 ### Atualmente estou estudando 🌱
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,typescript,react,nodejs,figma,mysql,kotlin&perline=3)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,typescript,nodejs,figma,mysql,kotlin&perline=3)](https://skillicons.dev)
 
 ### [Linkedin](https://www.linkedin.com/in/gabi-mariano/)

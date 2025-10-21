@@ -7,7 +7,7 @@
 - Ex-biomédica ♰
 
 ### Atualmente estou estudando 🌱
-[![My Skills](https://skillicons.dev/icons?i=python,sql,gcp)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,gcp)](https://skillicons.dev)
 
 ### Você consegue me encontrar no...
 ### [Linkedin](https://www.linkedin.com/in/gabi-mariano/) | [snowtenshi](https://snowtenshi.neocities.org/) | [study hall](https://snowtenshi.github.io/study-hall/)
